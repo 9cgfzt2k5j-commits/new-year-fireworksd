@@ -446,7 +446,7 @@
             <h2>分享跨年烟花</h2>
             <p>复制下方链接，发送给朋友一起观看跨年烟花秀！</p>
             <div style="background: rgba(255,255,255,0.1); padding: 15px; border-radius: 10px; margin-bottom: 20px; word-break: break-all;">
-                https://yourwebsite.com/new-year-fireworks
+                https://9cgfzt2k5j-commits.github.io/new-year-fireworksd/
             </div>
             <p>或者点击浏览器菜单，选择"分享"功能</p>
             <button class="close-hint">关闭</button>
